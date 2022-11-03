@@ -14,7 +14,7 @@ const Emilio = {
     code: ["Javascript","Typescript","C#", "HTML5/CSS3"],
     askMeAbout: ["gamedev", "tech", "web dev", "youtube"],
     technologies: {
-        frameworks: ["Angular.js","React", "Bootstrap"]
+        frameworks: ["Angular.js","React", "Bootstrap"],
         databases: ["MySql","Squlite","mongoDB"]
     },
     currentFocus: "Learning new tools on Software Engineer",
