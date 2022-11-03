@@ -15,7 +15,6 @@ const Emilio = {
     askMeAbout: ["gamedev", "tech", "web dev", "youtube"],
     technologies: {
         frameworks: ["Angular.js","React", "Bootstrap"]
-        devOps: ["AWS", "Docker🐳"],
         databases: ["MySql","Squlite","mongoDB"]
     },
     currentFocus: "Learning new tools on Software Engineer",
@@ -24,7 +23,7 @@ const Emilio = {
 };
 ```
 
-### My Wakatime Stats
+### My Overall Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
