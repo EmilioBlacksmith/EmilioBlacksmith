@@ -1,7 +1,7 @@
-<h1><img src="https://joypixels.com/profiles/animated/cowboy-hat-face" width="30"/>
+<h1>:cowboy_hat_face:
 Howdy Partner! I'm Emilio (Blacksmith) Herrera!
 </h1>
-![Github Followers](https://img.shields.io/github/followers/EmilioBlacksmith.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/EmilioBlacksmith)
+[![Github Followers](https://img.shields.io/github/followers/EmilioBlacksmith.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/EmilioBlacksmith)
 
 
 
@@ -10,7 +10,7 @@ Howdy Partner! I'm Emilio (Blacksmith) Herrera!
 <!--END_SECTION:waka-->
 
 ### Github Stats
-![Emilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilioBlacksmith&hide=prs,contribs&show_icons=true&theme=dark)](https://github.com/EmilioBlacksmith)
+[![Emilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilioBlacksmith&hide=prs,contribs&show_icons=true&theme=dark)](https://github.com/EmilioBlacksmith)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilioBlacksmith&layout=compact&theme=dark)](https://github.com/EmilioBlacksmith)
 
