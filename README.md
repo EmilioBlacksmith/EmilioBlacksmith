@@ -1,7 +1,8 @@
 <h1>:cowboy_hat_face:
 Howdy Partner! I'm Emilio (Blacksmith) Herrera!
 </h1>
-<img alt="Github" src="https://img.shields.io/github/followers/EmilioBlacksmith.svg?style=social&label=Follow&maxAge=2592000"/>
+<a href="https://github.com/EmilioBlacksmith"><img alt="Github" src="https://img.shields.io/github/followers/EmilioBlacksmith.svg?style=social&label=Follow&maxAge=2592000"/></a>
+<a href="https://twitter.com/intent/follow?screen_name=EmilioBlacksmit"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/EmilioBlacksmit?label=Follow)"/></a>
 
 
 
