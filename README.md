@@ -5,8 +5,8 @@ Howdy Partner!
 <a href="https://twitter.com/intent/follow?screen_name=EmilioBlacksmit"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/EmilioBlacksmit?label=Follow)"/></a>
 <a href="https://www.linkedin.com/in/emilioblacksmith/"><img alt="Linkedin Follow" src="https://img.shields.io/badge/-EmilioBlacksmith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilioblacksmith/"></a>
 <a href="https://emilioblacksmith.com/"><img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://emilioblacksmith.com/"></a>
+<a href="https://www.youtube.com/channel/UC1ZeE2i5QwVwhWOV-HveneQ"><img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UC1ZeE2i5QwVwhWOV-HveneQ?style=social"></a>
 <img alt="Visitor Badge" src="https://visitor-badge.glitch.me/badge?page_id=EmilioBlacksmith.EmilioBlacksmith">
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC1ZeE2i5QwVwhWOV-HveneQ?style=social">
 
 <p>Software Engineer at <a href="https://www.linkedin.com/company/blacksmith-softworks/">Blacksmith Softworks</a></p>
 <p>Gamedev Youtuber at <a href="https://www.youtube.com/channel/UC1ZeE2i5QwVwhWOV-HveneQ">Emilio Blacksmith</a></p>
