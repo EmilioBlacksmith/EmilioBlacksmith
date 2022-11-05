@@ -21,3 +21,4 @@ jobs:
           SHOW_COMMIT: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_LOC-REPOS: "False"
+          SHOW_PROFILE_VIEWS: "False"
