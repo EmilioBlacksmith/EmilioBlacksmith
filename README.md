@@ -43,7 +43,7 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+>These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
 
 ### Github Stats
 [![Emilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilioBlacksmith&hide=prs,contribs&show_icons=true&theme=dark)](https://github.com/EmilioBlacksmith)
