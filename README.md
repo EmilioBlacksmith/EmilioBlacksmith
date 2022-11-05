@@ -29,6 +29,18 @@ const Emilio = {
 
 ### My Overall Stats
 <!--START_SECTION:waka-->
+
+```text
+From: 03 November 2022 - To: 04 November 2022
+
+Total Time: 3 hrs 52 mins
+
+Markdown   2 hrs 15 mins   ██████████████▓░░░░░░░░░░   58.40 %
+C#         1 hr 8 mins     ███████▒░░░░░░░░░░░░░░░░░   29.37 %
+YAML       28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Github Stats
