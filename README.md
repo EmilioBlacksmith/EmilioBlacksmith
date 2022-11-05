@@ -38,7 +38,7 @@ const Emilio = {
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 64 Contributions in the Year 2022
+> 🏆 61 Contributions in the Year 2022
  > 
 > 📦 563.7 kB Used in GitHub's Storage 
  > 
@@ -48,6 +48,29 @@ const Emilio = {
  > 
 > 🔑 4 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    37 commits     █████████████░░░░░░░░░░░░   55.22% 
+🌆 Daytime    24 commits     █████████░░░░░░░░░░░░░░░░   35.82% 
+🌃 Evening    6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
+Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.48% 
+Thursday     31 commits     ███████████░░░░░░░░░░░░░░   46.27% 
+Friday       13 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.4% 
+Saturday     14 commits     █████░░░░░░░░░░░░░░░░░░░░   20.9% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -66,12 +89,8 @@ Windows                  1 hr 8 mins         ███░░░░░░░░�
 
 ```
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/EmilioBlacksmith/EmilioBlacksmith/main/charts/bar_graph.png) 
-
-
- Last Updated on 05/11/2022 15:49:59 UTC
+ Last Updated on 05/11/2022 15:57:08 UTC
 <!--END_SECTION:waka-->
 
 >These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
