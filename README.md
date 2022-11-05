@@ -36,8 +36,18 @@ const Emilio = {
 
 ### My Overall Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
+**🐱 My GitHub Data** 
 
+> 🏆 64 Contributions in the Year 2022
+ > 
+> 📦 563.7 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -61,7 +71,7 @@ Windows                  1 hr 8 mins         ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/EmilioBlacksmith/EmilioBlacksmith/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/11/2022 15:37:13 UTC
+ Last Updated on 05/11/2022 15:49:59 UTC
 <!--END_SECTION:waka-->
 
 >These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
