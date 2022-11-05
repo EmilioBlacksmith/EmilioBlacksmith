@@ -36,44 +36,7 @@ const Emilio = {
 
 ### My Overall Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2015%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 61 Contributions in the Year 2022
- > 
-> 📦 563.7 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 4 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    32 commits     █████████████░░░░░░░░░░░░   51.61% 
-🌆 Daytime    24 commits     █████████░░░░░░░░░░░░░░░░   38.71% 
-🌃 Evening    6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.84% 
-Thursday     31 commits     ████████████░░░░░░░░░░░░░   50.0% 
-Friday       13 commits     █████░░░░░░░░░░░░░░░░░░░░   20.97% 
-Saturday     9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -98,7 +61,7 @@ Windows                  1 hr 8 mins         ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/EmilioBlacksmith/EmilioBlacksmith/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/11/2022 15:24:22 UTC
+ Last Updated on 05/11/2022 15:37:13 UTC
 <!--END_SECTION:waka-->
 
 >These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
