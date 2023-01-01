@@ -31,7 +31,7 @@ const Emilio = {
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 197 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
@@ -78,7 +78,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/12/2022 06:08:52 UTC
+ Last Updated on 01/01/2023 06:08:49 UTC
 <!--END_SECTION:waka-->
 
 >These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
