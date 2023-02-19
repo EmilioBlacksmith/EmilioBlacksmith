@@ -70,16 +70,15 @@ Sunday          11 commits       ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ⌚︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-C#                       16 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   61.51 % 
-Binary                   10 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.49 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  26 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 18/02/2023 06:07:46 UTC
+ Last Updated on 19/02/2023 06:07:54 UTC
 <!--END_SECTION:waka-->
 
 >These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
