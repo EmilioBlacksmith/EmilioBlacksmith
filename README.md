@@ -8,6 +8,7 @@ Howdy Partner! Let's be friends.
 <a href="https://www.youtube.com/channel/UC1ZeE2i5QwVwhWOV-HveneQ"><img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UC1ZeE2i5QwVwhWOV-HveneQ?style=social"></a>
 
 
+----
 <p>Videogame Developer and Founder at <a href="https://www.linkedin.com/company/blacksmith-softworks/">Blacksmith Softworks</a></p>
 <p>Gamedev Youtuber at <a href="https://www.youtube.com/channel/UC1ZeE2i5QwVwhWOV-HveneQ">Emilio Blacksmith</a></p>
 
