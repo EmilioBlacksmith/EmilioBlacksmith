@@ -8,10 +8,11 @@ Howdy Partner! Let's be friends.
 <a href="https://emilioblacksmith.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://emilioblacksmith.github.io/"></a>
 <a href="https://www.youtube.com/channel/UC1ZeE2i5QwVwhWOV-HveneQ"><img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UC1ZeE2i5QwVwhWOV-HveneQ?style=social"></a>
 
-
 ----
-<p>Videogame Developer and Founder at <a href="https://www.linkedin.com/company/blacksmith-softworks/">Blacksmith Softworks</a></p>
+
+<p>Videogame Developer at <a href="https://www.linkedin.com/company/blacksmith-softworks/">Blacksmith Softworks</a></p>
 <p>Gamedev Youtuber at <a href="https://www.youtube.com/channel/UC1ZeE2i5QwVwhWOV-HveneQ">Emilio Blacksmith</a></p>
+
 
 ```javascript
 const Emilio = {
@@ -21,7 +22,7 @@ const Emilio = {
     askMeAbout: ["gamedev", "youtube", "tech", "web dev"],
     technologies: {
         game_engines: ["Unity", "Unreal Engine"],
-        art_tools: ["Blender", "Maya", "Audacity", "Adobe Suite"]
+        art_tools: ["Blender", "Maya", "Audacity", "Adobe Suite"],
         webdev_frameworks: ["Angular.js","React", "Bootstrap"],
         databases: ["MySql","Squlite","mongoDB"]
     },
