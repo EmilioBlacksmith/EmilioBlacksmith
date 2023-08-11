@@ -7,6 +7,7 @@ Howdy Partner! Let's be friends.
 <a href="https://www.linkedin.com/in/emilioblacksmith/"><img alt="Linkedin Follow" src="https://img.shields.io/badge/-EmilioBlacksmith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilioblacksmith/"></a>
 <a href="https://emilioblacksmith.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://emilioblacksmith.github.io/"></a>
 <a href="https://www.youtube.com/channel/UC1ZeE2i5QwVwhWOV-HveneQ"><img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UC1ZeE2i5QwVwhWOV-HveneQ?style=social"></a>
+<a href="https://www.codewars.com/users/EmilioBlacksmith"><img alt="Code Wars Profile" src="https://www.codewars.com/users/EmilioBlacksmith/badges/small"></a>
 
 ----
 
@@ -22,9 +23,7 @@ const Emilio = {
     askMeAbout: ["gamedev", "youtube", "tech", "web dev"],
     technologies: {
         game_engines: ["Unity", "Unreal Engine"],
-        art_tools: ["Blender", "Maya", "Audacity", "Adobe Suite"],
-        webdev_frameworks: ["Angular.js","React", "Bootstrap"],
-        databases: ["MySql","Squlite","mongoDB"]
+        art_tools: ["Blender", "Maya", "Audacity", "Adobe Suite"]
     },
     currentFocus: "Making a videogame development company, focused on both posting the best gamedev videos on youtube, and making fun game experiences.",
     learningAbout: "Physics based videogames multiplayer videogames",
