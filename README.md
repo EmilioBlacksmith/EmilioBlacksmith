@@ -15,18 +15,18 @@ Howdy Partner! Let's be friends.
 <p>Gamedev Youtuber at <a href="https://www.youtube.com/channel/UC1ZeE2i5QwVwhWOV-HveneQ">Emilio Blacksmith</a></p>
 
 
-```javascript
-const Emilio = {
+```typescript
+const EmilioBlacksmith = {
     name:"Emilio (Blacksmith) Herrera",
     pronouns: "He" | "Him",
-    code: ["C#","Javascript","Typescript", "HTML5/CSS3", "C++"],
+    code: ["C#","Javascript/Typescript", "HTML5/CSS3", "C++"],
     askMeAbout: ["gamedev", "youtube", "tech", "web dev"],
     technologies: {
-        game_engines: ["Unity", "Unreal Engine"],
-        art_tools: ["Blender", "Maya", "Audacity", "Adobe Suite"]
+        game_engines: ["Unity", "Godot"],
+        art_tools: ["Blender", "Maya", "Audacity", "Adobe Suite", "Davinci Resolve"]
     },
-    currentFocus: "Making a videogame development company, focused on both posting the best gamedev videos on youtube, and making fun game experiences.",
-    learningAbout: "Physics based videogames multiplayer videogames",
+    currentFocus: "Making a videogame development youtube company",
+    learningAbout: "Web Based Videogames/Apps",
     funFact: "I've been doing gamedev since 2017 and Web Dev since 2021",
     anotherFunFact: "Blacksmith translated to Spanish is Herrera, so I just made that into my my online last name"
 };
