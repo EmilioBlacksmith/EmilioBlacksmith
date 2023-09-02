@@ -19,7 +19,7 @@ Howdy Partner! Let's be friends.
 const EmilioBlacksmith = {
     name:"Emilio (Blacksmith) Herrera",
     pronouns: "He" | "Him",
-    code: ["C#","Typescript", "Javascript", "HTML5/CSS3", "C++"],
+    code: ["C#", "Javascript","Typescript","Python", "HTML5/CSS3", "C++"],
     askMeAbout: ["gamedev", "youtube", "tech", "web dev"],
     technologies: {
         game_engines: ["Unity", "Godot"],
