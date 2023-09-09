@@ -11,7 +11,8 @@ Howdy Partner! Let's be friends.
 
 ----
 
-<p>Videogame Developer at <a href="https://www.linkedin.com/company/blacksmith-softworks/">Blacksmith Softworks</a></p>
+<p>I make Development fun to watch (Sometimes...)</p>
+<p>Developer at <a href="https://www.linkedin.com/company/blacksmith-softworks/">Blacksmith Softworks</a></p>
 <p>Gamedev Youtuber at <a href="https://www.youtube.com/channel/UC1ZeE2i5QwVwhWOV-HveneQ">Emilio Blacksmith</a></p>
 
 
@@ -19,10 +20,11 @@ Howdy Partner! Let's be friends.
 const EmilioBlacksmith = {
     name:"Emilio (Blacksmith) Herrera",
     pronouns: "He" | "Him",
-    code: ["C#", "Javascript","Typescript","Python", "HTML5/CSS3", "C++"],
+    code: ["C#", "Javascript","Python", "HTML5/CSS3", "C++"],
     askMeAbout: ["gamedev", "youtube", "tech", "web dev"],
     technologies: {
         game_engines: ["Unity", "Godot"],
+        frameworks: ["React", "Vue"],
         art_tools: ["Blender", "Maya", "Audacity", "Adobe Suite", "Davinci Resolve"]
     },
     currentFocus: "Making a videogame development youtube company",
