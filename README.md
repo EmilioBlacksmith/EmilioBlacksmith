@@ -13,23 +13,23 @@ Howdy Partner! Let's be friends.
 
 <p>I make Development fun to watch (Sometimes...)</p>
 <p>Developer at <a href="https://www.linkedin.com/company/blacksmith-softworks/">Blacksmith Softworks</a></p>
-<p>Gamedev Youtuber at <a href="https://www.youtube.com/channel/UC1ZeE2i5QwVwhWOV-HveneQ">Emilio Blacksmith</a></p>
+<p>Software Developer Youtuber at <a href="https://www.youtube.com/channel/UC1ZeE2i5QwVwhWOV-HveneQ">Emilio Blacksmith</a></p>
 
 
-```typescript
+```Javascript
 const EmilioBlacksmith = {
     name:"Emilio (Blacksmith) Herrera",
     pronouns: "He" | "Him",
-    code: ["C#", "Javascript","Python", "HTML5/CSS3", "C++"],
-    askMeAbout: ["gamedev", "youtube", "tech", "web dev"],
+    code: [Javascript", "HTML5/CSS3", "C#", "C++"],
+    askMeAbout: ["gamedev", "youtube", "tech", "front-end web dev"],
     technologies: {
         game_engines: ["Unity", "Godot"],
-        frameworks: ["React", "Vue"],
+        frameworks: ["React", "Angular","Tailwind CSS"],
         art_tools: ["Blender", "Maya", "Audacity", "Adobe Suite", "Davinci Resolve"]
     },
     currentFocus: "Making a videogame development youtube company",
-    learningAbout: "Web Based Videogames/Apps",
-    funFact: "I've been doing gamedev since 2017 and Web Dev since 2021",
+    learningAbout: "How to make a Game Engine, using c++",
+    funFact: "I've been doing GameDev since 2017 and Front-End Web Dev since 2021",
     anotherFunFact: "Blacksmith translated to Spanish is Herrera, so I just made that into my my online last name"
 };
 ```
