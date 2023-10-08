@@ -19,7 +19,7 @@ const EmilioBlacksmith = {
     onlineName: "Emilio Blacksmith",
     age: 24,
     currentFocus: "Developing a desktop application, a game engine and a videogame",
-    learningAbout: "How to make a Game Engine, using c++",
+    learningAbout: "How to make a Game Engine, using c++ and the best react practices",
     funFact: "Blacksmith translated to Spanish is Herrera",
     askMeAbout: { "gamedev", "videogames", "development", "video editing"}
 };
