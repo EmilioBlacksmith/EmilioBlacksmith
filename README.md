@@ -10,7 +10,6 @@
 [![my youtube](https://img.shields.io/youtube/channel/subscribers/UC1ZeE2i5QwVwhWOV-HveneQ?style=social)](https://www.youtube.com/channel/UC1ZeE2i5QwVwhWOV-HveneQ)
 [![code wars stats](https://www.codewars.com/users/EmilioBlacksmith/badges/small)](https://www.codewars.com/users/EmilioBlacksmith)
 
-* I make Development fun to watch (Sometimes...)
 * Software Developer Youtuber at [Emilio Blacksmith](https://www.youtube.com/channel/UC1ZeE2i5QwVwhWOV-HveneQ)
 
 ```Javascript
@@ -18,39 +17,22 @@ const EmilioBlacksmith = {
     fullName:"Emilio Herrera Lozano",
     onlineName: "Emilio Blacksmith",
     age: 24,
-    currentFocus: "Developing a desktop application, a game engine and a videogame",
-    learningAbout: "How to make a Game Engine, using c++ and the best react practices",
+    currentFocus: "Building some Full Stack Projects",
+    learningAbout: "Full Stack Web Development",
     funFact: "Blacksmith translated to Spanish is Herrera",
-    askMeAbout: { "gamedev", "videogames", "development", "video editing"}
+    askMeAbout: {"videogames", "development", "video editing"}
 };
 
 const Hobbies = {
-    hobby1: "Play Videogames (Currently: Sims 4 and LoZ Breath of the Wild)",
-    hobby2: "Watch Anime (Currently: Naruto, first time)",
-    hobby3: "Reading (Currently: Models by Mark Manson)",
-    hobby4: "GYM (We go gym)"
+    hobby1: "Play Videogames (Currently: Alan Wake 1)",
+    hobby2: "Watch Anime (Currently: Attack on Titan)",
+    hobby3: "Reading (Currently: Models by Mark Manson)"
 }
 ```
 
-## My Tech Stack
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![unreal](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
-![adobe suite](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![gnu bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![linux mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+## Currently Working on
+
+* TubePlanner(WIP) - a Web App Youtuber Script Writer and Planner App, for desktop and web. With the focus on thumbnail testing tools, script writing tool based on kanban boards like trello, and Calendar Planner for video projects.
 
 ## Currently Listening to
 
