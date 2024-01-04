@@ -18,13 +18,13 @@ const EmilioBlacksmith = {
     onlineName: "Emilio Blacksmith",
     age: 24,
     currentFocus: "Building some Full Stack Projects",
-    learningAbout: "Backend to make an api",
+    learningAbout: "Backend to make an API",
     funFact: "Blacksmith translated to Spanish is Herrera",
     askMeAbout: {"videogames", "development", "video editing"}
 };
 
 const Hobbies = {
-    hobby1: "Play Videogames (Currently: Alan Wake 1)",
+    hobby1: "Play Videogames (Currently: RDR2 (again))",
     hobby2: "Watch Anime (Currently: Vinland Saga)",
     hobby3: "Reading (Currently: Models by Mark Manson)"
 }
@@ -34,31 +34,6 @@ const Hobbies = {
 
 - The Busy Gamer Web App - The Busy Gamer App, allows you to track the videogames that you want to play, and it helps you to calculate approximately how long it’s going to take you to finish all those games. (not everyone can play more than 2 hours a day :c ) Powered By HowLongToBeat.
 
-- TubePlanner(Decided to do it after the Busy Gamer Web App) - a Web App Youtuber Script Writer and Planner App, for desktop and web. With the focus on thumbnail testing tools, script writing tool based on kanban boards like trello, and Calendar Planner for video projects.
-
 ## Currently Listening to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=soyjake1&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=2062fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-## Some Dev Stats of the Week
-
-<!--START_SECTION:waka-->
-
-📊 **This Week I Spent My Time On**
-
-```text
-💬 Programming Languages:
-Text                     1 hr 50 mins        ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.80 %
-TypeScript               1 hr 45 mins        ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.69 %
-JavaScript               1 hr 45 mins        ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.59 %
-CSS                      1 hr 3 mins         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.69 %
-Vue.js                   32 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.92 %
-
-🔥 Editors:
-VS Code                  5 hrs 44 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜   74.03 %
-Neovim                   2 hrs               ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.97 %
-```
-
-Last Updated on 28/11/2023 06:01:27 UTC
-
-<!--END_SECTION:waka-->
