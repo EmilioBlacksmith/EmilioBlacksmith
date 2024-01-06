@@ -1,4 +1,4 @@
-# :cowboy_hat_face: Howdy Partner! Let's be friends
+# :cowboy_hat_face: Howdy Partner!
 
 [![total time coded since Nov 3 2022](https://wakatime.com/badge/user/a700d4d5-c428-4d7b-8370-22df5995ee70.svg)](https://wakatime.com/@a700d4d5-c428-4d7b-8370-22df5995ee70)
 [![my github followers](https://img.shields.io/github/followers/EmilioBlacksmith.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/EmilioBlacksmith)
@@ -10,8 +10,6 @@
 [![my youtube](https://img.shields.io/youtube/channel/subscribers/UC1ZeE2i5QwVwhWOV-HveneQ?style=social)](https://www.youtube.com/channel/UC1ZeE2i5QwVwhWOV-HveneQ)
 [![code wars stats](https://www.codewars.com/users/EmilioBlacksmith/badges/small)](https://www.codewars.com/users/EmilioBlacksmith)
 
-- Software Developer Youtuber at [Emilio Blacksmith](https://www.youtube.com/channel/UC1ZeE2i5QwVwhWOV-HveneQ)
-
 ```Javascript
 const EmilioBlacksmith = {
     fullName:"Emilio Herrera Lozano",
@@ -20,19 +18,19 @@ const EmilioBlacksmith = {
     currentFocus: "Building some Full Stack Projects",
     learningAbout: "Backend to make an API",
     funFact: "Blacksmith translated to Spanish is Herrera",
-    askMeAbout: {"videogames", "development", "video editing"}
+    askMeAbout: {"videogames", "development", "video editing"},
 };
 
 const Hobbies = {
     hobby1: "Play Videogames (Currently: RDR2 (again))",
     hobby2: "Watch Anime (Currently: Vinland Saga)",
-    hobby3: "Reading (Currently: Models by Mark Manson)"
-}
+    hobby3: "Reading (Currently: Models by Mark Manson)",
+};
 ```
 
 ## Currently Working on
 
-- The Busy Gamer Web App - The Busy Gamer App, allows you to track the videogames that you want to play, and it helps you to calculate approximately how long it’s going to take you to finish all those games. (not everyone can play more than 2 hours a day :c ) Powered By HowLongToBeat.
+- [The Busy Gamer Web App](https://emilioblacksmith.github.io/TheBusyGamerWebApp/) - The Busy Gamer App, allows you to track the videogames that you want to play, and it helps you to calculate approximately how long it’s going to take you to finish all those games. (not everyone can play more than 2 hours a day :c ) Powered By [HowLongToBeat API](https://github.com/ckatzorke/howlongtobeat).
 
 ## Currently Listening to
 
