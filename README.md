@@ -17,8 +17,6 @@ const EmilioBlacksmith = {
     age: 24,
     currentFocus: "Building some Full Stack Projects",
     learningAbout: "Backend to make an API",
-    funFact: "Blacksmith translated to Spanish is Herrera",
-    askMeAbout: {"videogames", "development", "video editing"},
 };
 
 const Hobbies = {
