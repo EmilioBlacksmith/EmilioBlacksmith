@@ -16,19 +16,19 @@ const EmilioBlacksmith = {
     onlineName: "Emilio Blacksmith",
     age: 24,
     currentFocus: "Building some Full Stack Projects",
-    learningAbout: "Backend to make an API",
+    learningAbout: "Backend with NodeJS",
 };
 
 const Hobbies = {
-    hobby1: "Play Videogames (Currently: RDR2 (again))",
+    hobby1: "Play Videogames (Currently: Death Stranding)",
     hobby2: "Watch Anime (Currently: Vinland Saga)",
-    hobby3: "Reading (Currently: Models by Mark Manson)",
+    hobby3: "Reading (Currently: The Power of Now by Eckhart Tolle)",
 };
 ```
 
 ## Currently Working on
 
-- [The Busy Gamer Web App](https://emilioblacksmith.github.io/TheBusyGamerWebApp/) - The Busy Gamer App, allows you to track the videogames that you want to play, and it helps you to calculate approximately how long it’s going to take you to finish all those games. (not everyone can play more than 2 hours a day :c ) Powered By [HowLongToBeat API](https://github.com/ckatzorke/howlongtobeat).
+- [The Busy Gamer Web App](https://emilioblacksmith.github.io/TheBusyGamerWebApp/) - The Busy Gamer App, allows you to track the videogames that you want to play, and it helps you to calculate approximately how long it’s going to take you to finish all those games. Powered By [HowLongToBeat API](https://github.com/ckatzorke/howlongtobeat).
 
 ## Currently Listening to
 
