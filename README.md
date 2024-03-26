@@ -5,8 +5,8 @@
 [![my twitter followers](https://img.shields.io/twitter/follow/EmilioBlacksmit?label=EmilioBlacksmith)](https://twitter.com/intent/follow?screen_name=EmilioBlacksmit)
 [![my linkedin](https://img.shields.io/badge/-EmilioBlacksmith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilioblacksmith/)](https://www.linkedin.com/in/emilioblacksmith/)
 [![my website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://emilioblacksmith.github.io/)](https://emilioblacksmith.github.io/)
-[![my personal blog](https://img.shields.io/badge/My_Personal_Blog-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://emilioblacksmith.github.io/)](https://emilioblacksmith.github.io/Blog)
-[![my personal blog](https://img.shields.io/badge/My_Social_Media_Links-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://emilioblacksmith.github.io/)](https://emilioblacksmith.github.io/bioLink/)
+[![my personal blog](https://img.shields.io/badge/My_Personal_Blog-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://emilioblacksmith.github.io/)](https://emilioblacksmith.github.io/TheBlacksmithBlog/)
+[![my links](https://img.shields.io/badge/My_Social_Media_Links-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://emilioblacksmith.github.io/)](https://emilioblacksmith.github.io/bioLink/)
 [![my youtube](https://img.shields.io/youtube/channel/subscribers/UC1ZeE2i5QwVwhWOV-HveneQ?style=social)](https://www.youtube.com/channel/UC1ZeE2i5QwVwhWOV-HveneQ)
 [![code wars stats](https://www.codewars.com/users/EmilioBlacksmith/badges/small)](https://www.codewars.com/users/EmilioBlacksmith)
 
