@@ -13,7 +13,7 @@
 Check my RESUME and links in your terminal with NPM, with the next command.
 
 ```Bash
-    npx emilioblacksmith
+npx emilioblacksmith
 ```
 
 ## Currently Working on
