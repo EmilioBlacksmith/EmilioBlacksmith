@@ -10,6 +10,16 @@
 [![my youtube](https://img.shields.io/youtube/channel/subscribers/UC1ZeE2i5QwVwhWOV-HveneQ?style=social)](https://www.youtube.com/channel/UC1ZeE2i5QwVwhWOV-HveneQ)
 [![code wars stats](https://www.codewars.com/users/EmilioBlacksmith/badges/small)](https://www.codewars.com/users/EmilioBlacksmith)
 
+Check my RESUME and links in your terminal with NPM, with the next command.
+
+```Bash
+    npx emilioblacksmith
+```
+
+## Currently Working on
+
+- [The Busy Gamer Web App](https://emilioblacksmith.github.io/TheBusyGamerWebApp/) - Allows you to track the videogames that you want to play, and it helps you to calculate approximately how long it’s going to take you to finish all those games. Powered By [HowLongToBeat API](https://github.com/ckatzorke/howlongtobeat).
+
 ```Javascript
 const EmilioBlacksmith = {
     fullName:"Emilio Herrera Lozano",
@@ -25,10 +35,6 @@ const Hobbies = {
     hobby3: "Reading (Currently: The Power of Now by Eckhart Tolle)",
 };
 ```
-
-## Currently Working on
-
-- [The Busy Gamer Web App](https://emilioblacksmith.github.io/TheBusyGamerWebApp/) - The Busy Gamer App, allows you to track the videogames that you want to play, and it helps you to calculate approximately how long it’s going to take you to finish all those games. Powered By [HowLongToBeat API](https://github.com/ckatzorke/howlongtobeat).
 
 ## Currently Listening to
 
