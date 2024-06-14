@@ -1,4 +1,4 @@
-# :cowboy_hat_face: Howdy Partner!
+# :cowboy_hat_face: Howdy Partner
 
 [![total time coded since Nov 3 2022](https://wakatime.com/badge/user/a700d4d5-c428-4d7b-8370-22df5995ee70.svg)](https://wakatime.com/@a700d4d5-c428-4d7b-8370-22df5995ee70)
 [![my github followers](https://img.shields.io/github/followers/EmilioBlacksmith.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/EmilioBlacksmith)
@@ -18,7 +18,13 @@ npx emilioblacksmith
 
 ## Currently Working on
 
+- I'm currently remaking my [portfolio website](https://github.com/EmilioBlacksmith/emilioblacksmith.github.io/issues/1) to be a bit more dynamic and more focused on the actual projects that I've developed over the years.
+
+### My latest project
+
 - [The Busy Gamer Web App](https://emilioblacksmith.github.io/TheBusyGamerWebApp/) - Allows you to track the videogames that you want to play, and it helps you to calculate approximately how long it’s going to take you to finish all those games. Powered By [HowLongToBeat API](https://github.com/ckatzorke/howlongtobeat).
+
+## Who am I?
 
 ```Javascript
 const EmilioBlacksmith = {
