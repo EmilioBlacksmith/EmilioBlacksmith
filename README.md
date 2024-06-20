@@ -36,8 +36,7 @@ const EmilioBlacksmith = {
 };
 
 const Hobbies = {
-    hobby1: "Play Videogames (Currently: Death Stranding)",
-    hobby2: "Watch Anime (Currently: Vinland Saga)",
-    hobby3: "Reading (Currently: The Power of Now by Eckhart Tolle)",
+    hobby1: "Play Videogames (Currently: Battlefield 1 or Cyberpunk 2077)",
+    hobby2: "Reading (Currently: Insecure in Love by Leslie Becker-Phelps)",
 };
 ```
