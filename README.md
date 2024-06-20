@@ -16,15 +16,6 @@ Check my RESUME and links in your terminal with NPM, with the next command.
 npx emilioblacksmith
 ```
 
-## Currently Working on
-
-- I'm currently remaking my [portfolio website](https://github.com/EmilioBlacksmith/emilioblacksmith.github.io/issues/1) to be a bit more dynamic and more focused on the actual projects that I've developed over the years.
-
-### My latest project
-
-- [The Busy Gamer Web App](https://emilioblacksmith.github.io/TheBusyGamerWebApp/) - Allows you to track the videogames that you want to play, and it helps you to calculate approximately how long it’s going to take you to finish all those games. Powered By [HowLongToBeat API](https://github.com/ckatzorke/howlongtobeat).
-- [Readme Youtube](https://github.com/EmilioBlacksmith/ReadmeYoutube) - it's a javascript script that once a day it updates the README.md file showcasing the most popular youtube videos of my channel.
-
 ## Who am I?
 
 ```Javascript
@@ -41,3 +32,12 @@ const Hobbies = {
     hobby2: "Reading (Currently: Insecure in Love by Leslie Becker-Phelps)",
 };
 ```
+
+## Currently Working on
+
+- I'm currently remaking my [portfolio website](https://github.com/EmilioBlacksmith/emilioblacksmith.github.io/issues/1) to be a bit more dynamic and more focused on the actual projects that I've developed over the years.
+
+### My latest project
+
+- [The Busy Gamer Web App](https://emilioblacksmith.github.io/TheBusyGamerWebApp/) - Allows you to track the videogames that you want to play, and it helps you to calculate approximately how long it’s going to take you to finish all those games. Powered By [HowLongToBeat API](https://github.com/ckatzorke/howlongtobeat).
+- [Readme Youtube](https://github.com/EmilioBlacksmith/ReadmeYoutube) - it's a javascript script that once a day it updates the README.md file showcasing the most popular youtube videos of my channel.
