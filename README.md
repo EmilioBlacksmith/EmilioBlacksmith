@@ -23,6 +23,7 @@ npx emilioblacksmith
 ### My latest project
 
 - [The Busy Gamer Web App](https://emilioblacksmith.github.io/TheBusyGamerWebApp/) - Allows you to track the videogames that you want to play, and it helps you to calculate approximately how long it’s going to take you to finish all those games. Powered By [HowLongToBeat API](https://github.com/ckatzorke/howlongtobeat).
+- [Readme Youtube](https://github.com/EmilioBlacksmith/ReadmeYoutube) - it's a javascript script that once a day it updates the README.md file showcasing the most popular youtube videos of my channel.
 
 ## Who am I?
 
