@@ -28,7 +28,7 @@ const EmilioBlacksmith = {
 };
 
 const Hobbies = {
-    hobby1: "Play Videogames (Currently: Battlefield 1 or Sims 4)",
+    hobby1: "Play Videogames (Currently: Battlefield 1, Sims 4 and AC Syndicate)",
     hobby2: "Reading (Currently: Insecure in Love by Leslie Becker-Phelps)",
 };
 ```
