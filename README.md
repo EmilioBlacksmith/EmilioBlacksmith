@@ -28,8 +28,8 @@ const EmilioBlacksmith = {
 };
 
 const Hobbies = {
-    hobby1: "Play Videogames (Currently: Battlefield 1, Sims 4 and AC Syndicate)",
-    hobby2: "Reading (Currently: Insecure in Love by Leslie Becker-Phelps)",
+    hobby1: "Play Videogames (Currently: Battlefield 1, Yakuza 0 and AC Syndicate)",
+    hobby2: "Reading (Currently: American Prometheus by Kai Bird and Martin J. Sherwin)",
 };
 ```
 
