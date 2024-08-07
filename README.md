@@ -22,20 +22,20 @@ npx emilioblacksmith
 const EmilioBlacksmith = {
     fullName:"Emilio Herrera Lozano",
     onlineName: "Emilio Blacksmith",
-    age: 24,
+    age: 25,
     currentFocus: "Building some Full Stack Projects",
     learningAbout: "Backend with NodeJS",
 };
 
 const Hobbies = {
-    hobby1: "Play Videogames (Currently: Battlefield 1, Yakuza 0 and AC Syndicate)",
+    hobby1: "Play Videogames (Currently: FC 24)",
     hobby2: "Reading (Currently: American Prometheus by Kai Bird and Martin J. Sherwin)",
 };
 ```
 
 ## Currently Working on
 
-- I'm currently remaking my [portfolio website](https://github.com/EmilioBlacksmith/emilioblacksmith.github.io/issues/1) to be a bit more dynamic and more focused on the actual projects that I've developed over the years.
+- Doing some great projects as a **Frontend Engineer** @ Finsphera.
 
 ### My latest project
 
