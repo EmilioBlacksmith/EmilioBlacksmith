@@ -24,11 +24,11 @@ const EmilioBlacksmith = {
     onlineName: "Emilio Blacksmith",
     age: 25,
     currentFocus: "Building some Full Stack Projects",
-    learningAbout: "Backend with NodeJS",
+    learningAbout: "Game development with OpenTK(c#/opengl)",
 };
 
 const Hobbies = {
-    hobby1: "Play Videogames (Currently: FC 24)",
+    hobby1: "Play Videogames (Currently: COD Black Ops 6)",
     hobby2: "Reading (Currently: American Prometheus by Kai Bird and Martin J. Sherwin)",
 };
 ```
@@ -39,5 +39,9 @@ const Hobbies = {
 
 ### My latest project
 
-- [The Busy Gamer Web App](https://emilioblacksmith.github.io/TheBusyGamerWebApp/) - Allows you to track the videogames that you want to play, and it helps you to calculate approximately how long it’s going to take you to finish all those games. Powered By [HowLongToBeat API](https://github.com/ckatzorke/howlongtobeat).
-- [Readme Youtube](https://github.com/EmilioBlacksmith/ReadmeYoutube) - it's a javascript script that once a day it updates the README.md file showcasing the most popular youtube videos of my channel.
+- [new Tab Productivity](https://github.com/EmilioBlacksmith/newTab-Productivity) - a Chrome extension for focused work, with a bit of darkness, saying how much time you have left.
+- Working on a videogame with OpenTK, help me jesus.
+
+### Acknowledgment
+
+> Jesus is Lord. ☦︎
